@@ -1,0 +1,26 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Alexis",
+	  "password":"123"
+	  
+    }
+  ],
+  "todos": [
+    {
+      "id": "730037e3-7e3e-484a-aa2b-9b79a1d45cbc",
+      "userId": 1,
+      "task": "wewewer",
+      "completed": false,
+      "isEditing": false
+    },
+    {
+      "id": "a17829f8-610a-4453-8624-c5da039dd604",
+      "userId": 1,
+      "task": "iiiioiuoiuoiu/////7777777777777777",
+      "completed": false,
+      "isEditing": false
+    }
+  ]
+}
